@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "notebooks"
-  site-url: "https://kzvezdarov.github.io/notebooks"
-  description: "Various Jupyter Notebooks"
-  repo-branch: main
-  repo-url: "https://github.com/kzvezdarov/notebooks"
